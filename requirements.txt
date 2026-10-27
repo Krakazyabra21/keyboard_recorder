@@ -1,0 +1,3 @@
+ttkbootstrap
+pynput
+keyboard
